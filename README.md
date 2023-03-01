@@ -60,16 +60,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TODO LiSTS <a name="about-project"></a>
+# 📖 JAVASCRIPT UNIT TEST <a name="about-project"></a>
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 
-**Todo List** is a javascript project that behave like a simple to do list application. The application could add item, delete an item, edit an item and also clear items that have been checked by the user.
+**Javascript Unit Test** is a jest framework used to for unit testing of javascript applications.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- **HTML**
-- **CSS**
 - **JAVASCRIPT**
 
 <!-- Features -->
@@ -78,7 +76,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- > Describe between 1-3 key features of the application. -->
 
-- **Webpack**
+- **Jest library**
 -
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -89,7 +87,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- > Add a link to your deployed project. -->
 
-- [Coming soon](https://adholah96.github.io/to-do-list/dist/)
+- [Coming soon](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,8 +110,8 @@ Example commands:
 
 ```sh
   cd <desired folder to contain project>
-  git clone git@github.com:Adholah96/webpack.git
-  cd awesom-books
+  git clone git@github.com:Adholah96/javascript-testing-jest.git
+  cd javascript-testing-jest
 ```
 
 ### Install
@@ -153,7 +151,7 @@ To run the project, execute the following command:
 
  <!-- Describe 1 - 3 features you will add to the project. -->
 
-- **More modules**
+- **More Test Units**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
